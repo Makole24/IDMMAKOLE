@@ -1,0 +1,78 @@
+# list 
+
+
+students = ['musa','ibrahim','makole','muhammad']
+
+
+print(students)
+
+state = ['kano','kaduna','taraba','jigawa','makole','yobe']
+# state[1] = 'imo'
+# state[2:4]=['bauchi','azre','maiduguri','abuja']
+# print(state[1])
+state.append('sokoto')
+state.insert(2,'zamfara')
+
+print(state)
+
+
+# print(len(state))
+# print(type(state))
+
+
+
+# print(state[0])
+# print(state[1])
+# print(state[2:4])
+
+
+# tuple
+
+
+region = ('kano','kaduna','kogi','kwara','jigawa','lagos')
+region=[2:6]=('edo','bauchi','jos','ondo')
+print(region)
+
+
+
+
+
+
+# set
+zone ={'kano','kaduna','kogi','kwara','jigawa','lagos'}
+name=['musa','ibrahim','makole','muhammad']
+
+zone.add('katsina')
+print.update(name)
+print(zone)
+
+
+# Dictionary
+ 
+ student={
+  'mame': 'Munzali',
+  'school':'maaun',
+  'hostel':'na bayan svhool',
+  'department':'computer scince'
+  'fav colour':'blue',
+  'level':300,
+  'wife':amina,
+
+  
+
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
